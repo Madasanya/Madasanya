@@ -8,13 +8,14 @@ My name is Margarete Mueller. I have been studying at the [42 Wolfsburg](https:/
 
 What you can expect here in the future: Of course more C/C++ related projects, but also some fun with Assembly!
 
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Madasanya&show_icons=true&theme=github_dark&bg_color=00000000)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Madasanya&show_icons=true&bg_color=00000000)
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/Madasanya/Madasanya)
 ![pv](https://pageview.vercel.app/?github_user=Madasanya)
 
-**42 related projects**
+***
 
+**42 related projects**
 | Circle | Project | Language | Score |
 |:-----:|:---------------:|:----:|:----:|
 |     0|[libft](../../../42_libft)|C|115|
@@ -33,4 +34,10 @@ What you can expect here in the future: Of course more C/C++ related projects, b
 |     5|[Inception](../../../42_Inception)|-|100
 |     5|[ft_containers](../../../42_ft_containers)|C++|100|
 |     6|[ft_transcendence](../../../42_ft_transcendence_pk)|TypeScript|100|
+
+***
+
+**Private projects**
+
+[Seting up Framework Laptop with Debian](https://github.com/Madasanya/framework_debian)
 
