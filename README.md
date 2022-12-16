@@ -39,5 +39,5 @@ What you can expect here in the future: Of course more C/C++ related projects, b
 
 **Private projects**
 
-[Seting up Framework Laptop with Debian](https://github.com/Madasanya/framework_debian)
+[Setting up Framework Laptop with Debian](https://github.com/Madasanya/framework_debian)
 
