@@ -15,25 +15,30 @@ What you can expect here in the future: Of course more C/C++ related projects, b
 
 ***
 
-**42 related projects**
+# 42 related projects
+
+[![mamuller's 42 stats](https://badge42.vercel.app/api/v2/clbs09psk00060fl8zsckp2zg/stats?cursusId=21&coalitionId=undefined)](https://github.com/JaeSeoKim/badge42)
+
+## Common Core
+
 | Circle | Project | Language | Score |
 |:-----:|:---------------:|:----:|:----:|
-|     0|[libft](../../../42_libft)|C|115|
-|     1|[Born2BeRoot](../../../42_Born2BeRoot)|-|125|
-|     1|[get_next_line](../../../42_get_next_line)|C|103|
-|     1|[ft_printf](../../../42_ft_printf)|C|100|
-|     2|[push_swap](../../../42_push_swap)|C|84|
-|     2|[so_long](../../../42_so_long)|C|125
-|     2|[pipex](../../../42_pipex)|C|115|
-|     3|[Philosophers](../../../42_Philosophers)|C|100|
-|     3|[minishell](../../../42_minishell)|C|10]0
-|     4|[miniRT](../../../42_miniRT)|C|108|
-|     4|[netPractice](../../../42_netPractice)|-|100
-|     4|[CPP](../../../42_CPP)|C++|100|
-|     5|[ft_irc](../../../42_ft_irc)|C++|125|
-|     5|[Inception](../../../42_Inception)|-|100
-|     5|[ft_containers](../../../42_ft_containers)|C++|100|
-|     6|[ft_transcendence](../../../42_ft_transcendence_pk)|TypeScript|100|
+|     0|[libft](../../../42_libft)|C|[![mamuller's 42 Libft Score](https://badge42.vercel.app/api/v2/clbs09psk00060fl8zsckp2zg/project/2170634)](https://github.com/JaeSeoKim/badge42)|
+|     1|[Born2BeRoot](../../../42_Born2BeRoot)|-|[![mamuller's 42 Born2beroot Score](https://badge42.vercel.app/api/v2/clbs09psk00060fl8zsckp2zg/project/2244565)](https://github.com/JaeSeoKim/badge42)|
+|     1|[get_next_line](../../../42_get_next_line)|C|[![mamuller's 42 get_next_line Score](https://badge42.vercel.app/api/v2/clbs09psk00060fl8zsckp2zg/project/2201468)](https://github.com/JaeSeoKim/badge42)|
+|     1|[ft_printf](../../../42_ft_printf)|C|[![mamuller's 42 ft_printf Score](https://badge42.vercel.app/api/v2/clbs09psk00060fl8zsckp2zg/project/2262247)](https://github.com/JaeSeoKim/badge42)|
+|     2|[push_swap](../../../42_push_swap)|C|[![mamuller's 42 push_swap Score](https://badge42.vercel.app/api/v2/clbs09psk00060fl8zsckp2zg/project/2403019)](https://github.com/JaeSeoKim/badge42)|
+|     2|[so_long](../../../42_so_long)|C|[![mamuller's 42 so_long Score](https://badge42.vercel.app/api/v2/clbs09psk00060fl8zsckp2zg/project/2390175)](https://github.com/JaeSeoKim/badge42)|
+|     2|[pipex](../../../42_pipex)|C|[![mamuller's 42 pipex Score](https://badge42.vercel.app/api/v2/clbs09psk00060fl8zsckp2zg/project/2416925)](https://github.com/JaeSeoKim/badge42)|
+|     3|[Philosophers](../../../42_Philosophers)|C|[![mamuller's 42 Philosophers Score](https://badge42.vercel.app/api/v2/clbs09psk00060fl8zsckp2zg/project/2431482)](https://github.com/JaeSeoKim/badge42)|
+|     3|[minishell](../../../42_minishell)|C|[![mamuller's 42 minishell Score](https://badge42.vercel.app/api/v2/clbs09psk00060fl8zsckp2zg/project/2450585)](https://github.com/JaeSeoKim/badge42)|
+|     4|[miniRT](../../../42_miniRT)|C|[![mamuller's 42 miniRT Score](https://badge42.vercel.app/api/v2/clbs09psk00060fl8zsckp2zg/project/2520157)](https://github.com/JaeSeoKim/badge42)|
+|     4|[netPractice](../../../42_netPractice)|-|[![mamuller's 42 NetPractice Score](https://badge42.vercel.app/api/v2/clbs09psk00060fl8zsckp2zg/project/2542082)](https://github.com/JaeSeoKim/badge42)|
+|     4|[CPP](../../../42_CPP)|C++|[![mamuller's 42 CPP Module 08 Score](https://badge42.vercel.app/api/v2/clbs09psk00060fl8zsckp2zg/project/2582216)](https://github.com/JaeSeoKim/badge42)|
+|     5|[ft_irc](../../../42_ft_irc)|C++|[![mamuller's 42 Inception Score](https://badge42.vercel.app/api/v2/clbs09psk00060fl8zsckp2zg/project/2837364)](https://github.com/JaeSeoKim/badge42)|
+|     5|[Inception](../../../42_Inception)|-|[![mamuller's 42 Inception Score](https://badge42.vercel.app/api/v2/clbs09psk00060fl8zsckp2zg/project/2837364)](https://github.com/JaeSeoKim/badge42)|
+|     5|[ft_containers](../../../42_ft_containers)|C++|[![mamuller's 42 ft_containers Score](https://badge42.vercel.app/api/v2/clbs09psk00060fl8zsckp2zg/project/2583118)](https://github.com/JaeSeoKim/badge42)|
+|     6|[ft_transcendence](../../../42_ft_transcendence_pk)|TypeScript|[![mamuller's 42 ft_transcendence Score](https://badge42.vercel.app/api/v2/clbs09psk00060fl8zsckp2zg/project/2862384)](https://github.com/JaeSeoKim/badge42)|
 
 ***
 
