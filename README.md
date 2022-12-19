@@ -35,7 +35,7 @@ What you can expect here in the future: Of course more C/C++ related projects, b
 |     4|[miniRT](../../../42_miniRT)|C|[![mamuller's 42 miniRT Score](https://badge42.vercel.app/api/v2/clbs09psk00060fl8zsckp2zg/project/2520157)](https://github.com/JaeSeoKim/badge42)|
 |     4|[netPractice](../../../42_netPractice)|-|[![mamuller's 42 NetPractice Score](https://badge42.vercel.app/api/v2/clbs09psk00060fl8zsckp2zg/project/2542082)](https://github.com/JaeSeoKim/badge42)|
 |     4|[CPP](../../../42_CPP)|C++|[![mamuller's 42 CPP Module 08 Score](https://badge42.vercel.app/api/v2/clbs09psk00060fl8zsckp2zg/project/2582216)](https://github.com/JaeSeoKim/badge42)|
-|     5|[ft_irc](../../../42_ft_irc)|C++|[![mamuller's 42 Inception Score](https://badge42.vercel.app/api/v2/clbs09psk00060fl8zsckp2zg/project/2837364)](https://github.com/JaeSeoKim/badge42)|
+|     5|[ft_irc](../../../42_ft_irc)|C++|[![mamuller's 42 ft_irc Score](https://badge42.vercel.app/api/v2/clbs09psk00060fl8zsckp2zg/project/2837363)](https://github.com/JaeSeoKim/badge42)|
 |     5|[Inception](../../../42_Inception)|-|[![mamuller's 42 Inception Score](https://badge42.vercel.app/api/v2/clbs09psk00060fl8zsckp2zg/project/2837364)](https://github.com/JaeSeoKim/badge42)|
 |     5|[ft_containers](../../../42_ft_containers)|C++|[![mamuller's 42 ft_containers Score](https://badge42.vercel.app/api/v2/clbs09psk00060fl8zsckp2zg/project/2583118)](https://github.com/JaeSeoKim/badge42)|
 |     6|[ft_transcendence](../../../42_ft_transcendence_pk)|TypeScript|[![mamuller's 42 ft_transcendence Score](https://badge42.vercel.app/api/v2/clbs09psk00060fl8zsckp2zg/project/2862384)](https://github.com/JaeSeoKim/badge42)|
