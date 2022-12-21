@@ -19,6 +19,7 @@ What you can expect here in the future: Of course more C/C++ related projects, b
 
 [![mamuller's 42 stats](https://badge42.vercel.app/api/v2/clbs09psk00060fl8zsckp2zg/stats?cursusId=21&coalitionId=undefined)](https://github.com/JaeSeoKim/badge42)
 
+
 ## Common Core
 
 | Circle | Project | Language | Score |
