@@ -8,7 +8,9 @@ My name is Margarete Mueller. I have been studying at the [42 Wolfsburg](https:/
 
 What you can expect here in the future: Of course more C/C++ related projects, but also some fun with Assembly!
 
-![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Madasanya&show_icons=true&bg_color=00000000)
+[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Madasanya&show_icons=true&bg_color=00000000)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Madasanya&bg_color=00000000&langs_count=7&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/Madasanya/Madasanya)
 ![pv](https://pageview.vercel.app/?github_user=Madasanya)
