@@ -24,24 +24,24 @@ What you can expect here in the future: Of course more C/C++ related projects, b
 
 ## Common Core
 
-| Circle | Project | Language | Score |
-|:-----:|:---------------:|:----:|:----:|
-|     0|[libft](../../../42_libft)|C|[![mamuller's 42 Libft Score](https://badge42.vercel.app/api/v2/clbs09psk00060fl8zsckp2zg/project/2170634)](https://github.com/JaeSeoKim/badge42)|
-|     1|[Born2BeRoot](../../../42_Born2BeRoot)|-|[![mamuller's 42 Born2beroot Score](https://badge42.vercel.app/api/v2/clbs09psk00060fl8zsckp2zg/project/2244565)](https://github.com/JaeSeoKim/badge42)|
-|     1|[get_next_line](../../../42_get_next_line)|C|[![mamuller's 42 get_next_line Score](https://badge42.vercel.app/api/v2/clbs09psk00060fl8zsckp2zg/project/2201468)](https://github.com/JaeSeoKim/badge42)|
-|     1|[ft_printf](../../../42_ft_printf)|C|[![mamuller's 42 ft_printf Score](https://badge42.vercel.app/api/v2/clbs09psk00060fl8zsckp2zg/project/2262247)](https://github.com/JaeSeoKim/badge42)|
-|     2|[push_swap](../../../42_push_swap)|C|[![mamuller's 42 push_swap Score](https://badge42.vercel.app/api/v2/clbs09psk00060fl8zsckp2zg/project/2403019)](https://github.com/JaeSeoKim/badge42)|
-|     2|[so_long](../../../42_so_long)|C|[![mamuller's 42 so_long Score](https://badge42.vercel.app/api/v2/clbs09psk00060fl8zsckp2zg/project/2390175)](https://github.com/JaeSeoKim/badge42)|
-|     2|[pipex](../../../42_pipex)|C|[![mamuller's 42 pipex Score](https://badge42.vercel.app/api/v2/clbs09psk00060fl8zsckp2zg/project/2416925)](https://github.com/JaeSeoKim/badge42)|
-|     3|[Philosophers](../../../42_Philosophers)|C|[![mamuller's 42 Philosophers Score](https://badge42.vercel.app/api/v2/clbs09psk00060fl8zsckp2zg/project/2431482)](https://github.com/JaeSeoKim/badge42)|
-|     3|[minishell](../../../42_minishell)|C|[![mamuller's 42 minishell Score](https://badge42.vercel.app/api/v2/clbs09psk00060fl8zsckp2zg/project/2450585)](https://github.com/JaeSeoKim/badge42)|
-|     4|[miniRT](../../../42_miniRT)|C|[![mamuller's 42 miniRT Score](https://badge42.vercel.app/api/v2/clbs09psk00060fl8zsckp2zg/project/2520157)](https://github.com/JaeSeoKim/badge42)|
-|     4|[netPractice](../../../42_netPractice)|-|[![mamuller's 42 NetPractice Score](https://badge42.vercel.app/api/v2/clbs09psk00060fl8zsckp2zg/project/2542082)](https://github.com/JaeSeoKim/badge42)|
-|     4|[CPP](../../../42_CPP)|C++|[![mamuller's 42 CPP Module 08 Score](https://badge42.vercel.app/api/v2/clbs09psk00060fl8zsckp2zg/project/2582216)](https://github.com/JaeSeoKim/badge42)|
-|     5|[ft_irc](../../../42_ft_irc)|C++|[![mamuller's 42 ft_irc Score](https://badge42.vercel.app/api/v2/clbs09psk00060fl8zsckp2zg/project/2837363)](https://github.com/JaeSeoKim/badge42)|
-|     5|[Inception](../../../42_Inception)|-|[![mamuller's 42 Inception Score](https://badge42.vercel.app/api/v2/clbs09psk00060fl8zsckp2zg/project/2837364)](https://github.com/JaeSeoKim/badge42)|
-|     5|[ft_containers](../../../42_ft_containers)|C++|[![mamuller's 42 ft_containers Score](https://badge42.vercel.app/api/v2/clbs09psk00060fl8zsckp2zg/project/2583118)](https://github.com/JaeSeoKim/badge42)|
-|     6|[ft_transcendence](../../../42_ft_transcendence_pk)|TypeScript|[![mamuller's 42 ft_transcendence Score](https://badge42.vercel.app/api/v2/clbs09psk00060fl8zsckp2zg/project/2862384)](https://github.com/JaeSeoKim/badge42)|
+| Circle | Project | Language Used | Top Language |
+|:-----:|:---------------:|:----|:-----|
+|     0|[libft](../../../42_libft)|![GitHub language count](https://img.shields.io/github/languages/count/Madasanya/42_libft?style=plastic)|![GitHub top language](https://img.shields.io/github/languages/top/Madasanya/42_libft?style=plastic)|
+|     1|[Born2BeRoot](../../../42_Born2BeRoot)|![GitHub language count](https://img.shields.io/github/languages/count/Madasanya/42_Born2BeRoot?style=plastic)|![GitHub top language](https://img.shields.io/github/languages/top/Madasanya/42_Born2BeRoot?style=plastic)|
+|     1|[get_next_line](../../../42_get_next_line)|![GitHub language count](https://img.shields.io/github/languages/count/Madasanya/42_get_next_line?style=plastic)|![GitHub top language](https://img.shields.io/github/languages/top/Madasanya/42_get_next_line?style=plastic)|
+|     1|[ft_printf](../../../42_ft_printf)|![GitHub language count](https://img.shields.io/github/languages/count/Madasanya/42_ft_printf?style=plastic)|![GitHub top language](https://img.shields.io/github/languages/top/Madasanya/42_ft_printf?style=plastic)|
+|     2|[push_swap](../../../42_push_swap)|![GitHub language count](https://img.shields.io/github/languages/count/Madasanya/42_push_swap?style=plastic)|![GitHub top language](https://img.shields.io/github/languages/top/Madasanya/42_push_swap?style=plastic)|
+|     2|[so_long](../../../42_so_long)|![GitHub language count](https://img.shields.io/github/languages/count/Madasanya/42_so_long?style=plastic)|![GitHub top language](https://img.shields.io/github/languages/top/Madasanya/42_so_long?style=plastic)|
+|     2|[pipex](../../../42_pipex)|![GitHub language count](https://img.shields.io/github/languages/count/Madasanya/42_pipex?style=plastic)|![GitHub top language](https://img.shields.io/github/languages/top/Madasanya/42_pipex?style=plastic)|
+|     3|[Philosophers](../../../42_Philosophers)|![GitHub language count](https://img.shields.io/github/languages/count/Madasanya/42_Philosophers?style=plastic)|![GitHub top language](https://img.shields.io/github/languages/top/Madasanya/42_Philosophers?style=plastic)|
+|     3|[minishell](../../../42_minishell)|![GitHub language count](https://img.shields.io/github/languages/count/Madasanya/42_minishell?style=plastic)|![GitHub top language](https://img.shields.io/github/languages/top/Madasanya/42_minishell?style=plastic)|
+|     4|[miniRT](../../../42_miniRT)|![GitHub language count](https://img.shields.io/github/languages/count/Madasanya/42_miniRT?style=plastic)|![GitHub top language](https://img.shields.io/github/languages/top/Madasanya/42_miniRT?style=plastic)|
+|     4|[netPractice](../../../42_netPractice)|![GitHub language count](https://img.shields.io/github/languages/count/Madasanya/42_netPractice?style=plastic)|![GitHub top language](https://img.shields.io/github/languages/top/Madasanya/42_netPractice?style=plastic)|
+|     4|[CPP](../../../42_CPP)|![GitHub language count](https://img.shields.io/github/languages/count/Madasanya/42_CPP?style=plastic)|![GitHub top language](https://img.shields.io/github/languages/top/Madasanya/42_CPP?style=plastic)|
+|     5|[ft_irc](../../../42_ft_irc)|![GitHub language count](https://img.shields.io/github/languages/count/Madasanya/42_ft_irc?style=plastic)|![GitHub top language](https://img.shields.io/github/languages/top/Madasanya/42_ft_irc?style=plastic)|
+|     5|[Inception](../../../42_Inception)|![GitHub language count](https://img.shields.io/github/languages/count/Madasanya/42_Inception?style=plastic)|![GitHub top language](https://img.shields.io/github/languages/top/Madasanya/42_Inception?style=plastic)|
+|     5|[ft_containers](../../../42_ft_containers)|![GitHub language count](https://img.shields.io/github/languages/count/Madasanya/42_ft_containers?style=plastic)|![GitHub top language](https://img.shields.io/github/languages/top/Madasanya/42_ft_containers?style=plastic)|
+|     6|[ft_transcendence](../../../42_ft_transcendence_pk)|![GitHub language count](https://img.shields.io/github/languages/count/Madasanya/42_ft_transcendence?style=plastic)|![GitHub top language](https://img.shields.io/github/languages/top/Madasanya/42_ft_transcendence?style=plastic)|
 
 ***
 
