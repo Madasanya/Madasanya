@@ -1,10 +1,12 @@
 Hi,
 
-My name is Margarete Mueller. I have been studying at the [42 Wolfsburg](https://42wolfsburg.de/) since 2021 and have discovered my passion for C/C++ here. I hope you have fun going through my projects. I am very grateful for any suggestions or exchanges, so feel free to contact me :)
-<br>
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/margarete-mueller)
-<br>
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=flat-square&logo=discord&logoColor=white)](https://discordapp.com/users/793196434605867038)
+My name is Margarete Mueller. I have been studying at [42Wolfsburg](https://42wolfsburg.de/) since 2021 and have discovered my passion for C/C++ here. I hope you have fun going through my projects. I am very grateful for any suggestions or exchanges, so feel free to contact :) 
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0e76a8?style=plastic&logo=linkedin&logoColor=white)](https://linkedin.com/in/margarete-mueller)
+
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=plastic&logo=discord&logoColor=white)](https://discordapp.com/users/793196434605867038)
+
+[![42Wolfsburg](https://img.shields.io/badge/Wolfsburg-000000?logo=42&style=plastic)](https://42wolfsburg.de/)
 
 What you can expect here in the future: Of course more C/C++ related projects, but also some fun with Assembly!
 
