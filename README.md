@@ -1,12 +1,11 @@
 Hi,
 
-My name is Margarete Mueller. I have been studying at [42Wolfsburg](https://42wolfsburg.de/) since 2021 and have discovered my passion for C/C++ here. I hope you have fun going through my projects. I am very grateful for any suggestions or exchanges, so feel free to contact :) 
+My name is Margarete Mueller. I have been studying at [42Wolfsburg](https://42wolfsburg.de/) since 2021 and have discovered my passion for C/C++ here. I hope you have fun going through my projects. I am very grateful for any suggestions or exchanges, so feel free to contact me :) 
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0e76a8?style=plastic&logo=linkedin&logoColor=white)](https://linkedin.com/in/margarete-mueller)
-
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=plastic&logo=discord&logoColor=white)](https://discordapp.com/users/793196434605867038)
 
-[![42Wolfsburg](https://img.shields.io/badge/Wolfsburg-000000?logo=42&style=plastic)](https://42wolfsburg.de/)
+
 
 What you can expect here in the future: Of course more C/C++ related projects, but also some fun with Assembly!
 
@@ -23,6 +22,7 @@ What you can expect here in the future: Of course more C/C++ related projects, b
 
 [![mamuller's 42 stats](https://badge42.vercel.app/api/v2/clbs09psk00060fl8zsckp2zg/stats?cursusId=21&coalitionId=undefined)](https://github.com/JaeSeoKim/badge42)
 
+[![42Wolfsburg](https://img.shields.io/badge/Wolfsburg-000000?logo=42&style=plastic)](https://42wolfsburg.de/)
 
 ## Common Core
 
