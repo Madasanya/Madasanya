@@ -10,7 +10,7 @@ My name is Margarete Mueller. I have been studying at [42Wolfsburg](https://42wo
 What you can expect here in the future: Of course more C/C++ related projects, but also some fun with Assembly!
 
 [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Madasanya&show_icons=true&bg_color=00000000)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Madasanya&bg_color=00000000&langs_count=7&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Madasanya&bg_color=00000000&langs_count=7&layout=compact&hide=roff)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/Madasanya/Madasanya)
@@ -26,7 +26,7 @@ What you can expect here in the future: Of course more C/C++ related projects, b
 
 ## Common Core
 
-| Circle | Project | Language Used | Top Language |
+| Circle | Project | Languages Used | Top Language |
 |:-----:|:---------------:|:----|:-----|
 |     0|[libft](../../../42_libft)|![GitHub language count](https://img.shields.io/github/languages/count/Madasanya/42_libft?style=plastic)|![GitHub top language](https://img.shields.io/github/languages/top/Madasanya/42_libft?style=plastic)|
 |     1|[Born2BeRoot](../../../42_Born2BeRoot)|![GitHub language count](https://img.shields.io/github/languages/count/Madasanya/42_Born2BeRoot?style=plastic)|![GitHub top language](https://img.shields.io/github/languages/top/Madasanya/42_Born2BeRoot?style=plastic)|
