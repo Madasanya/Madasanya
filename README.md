@@ -20,8 +20,6 @@ What you can expect here in the future: Of course more C/C++ related projects, b
 
 # 42 related projects
 
-[![mamuller's 42 stats](https://badge42.vercel.app/api/v2/clbs09psk00060fl8zsckp2zg/stats?cursusId=21&coalitionId=undefined)](https://github.com/JaeSeoKim/badge42)
-
 [![42Wolfsburg](https://img.shields.io/badge/Wolfsburg-000000?logo=42&style=plastic)](https://42wolfsburg.de/)
 
 ## Common Core
